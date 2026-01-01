@@ -41,4 +41,3 @@ gn_analytics.py: NLP & Visualization.
 
 gn_lasso_model.py: ML Pipeline (GridSearchCV, Lasso).
 
-For educational/research use only.
