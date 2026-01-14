@@ -1,5 +1,6 @@
 # OSM Equity Research Tool
 
+Creator: Brian Au, HKUST QFIN
 
 ### Overview
 This project provides a Python-based pipeline for fetching, analyzing, and visualizing geospatial data from OpenStreetMap (OSM). It is designed to support Equity Research and Urban Analysis by programmatically identifying the location and density of commercial assets (malls, train stations, retail chains) in Hong Kong and beyond.
