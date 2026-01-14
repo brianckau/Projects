@@ -1,4 +1,8 @@
 # Google Search Interest - Asset Return Model
+
+Creator: Brian Au, HKUST QFIN
+
+
 A quantitative research tool that uses Google Trends search volume to predict stock market returns. It automates the fetching of search data and uses Lasso Regression to find predictive signals.
 
 ## 🚀 Features
