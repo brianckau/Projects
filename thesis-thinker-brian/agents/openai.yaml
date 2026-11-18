@@ -1,0 +1,14 @@
+interface:
+  display_name: Thesis Thinker (Brian)
+  short_description: Research, challenge, and score investment theses
+  default_prompt: Use $thesis-thinker-brian to map the market debate and challenge
+    my stock thesis one question at a time.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
